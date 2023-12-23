@@ -10,4 +10,6 @@ Tiny system info for Unix-like operating systems.
 ![ufetch](https://jschx.gitlab.io/images/ufetch.png)
 
 
+Please support original maker: [lol](https://gitlab.com/jschx/ufetch) 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
